@@ -1,4 +1,5 @@
-Hello, I’m @ForrestOgden
+Hello, I’m Forrest!
+
 I'm interested in learning to create my own projects and mapping my thought processes to be more programmer-oriented and fluid. <br/><br/>
 As of right now, I'm learning JavaScript, but have also completed a few courses in HTML5 and CSS3. I'm mainly focusing on becoming proficient in Javascript until I can comfortably
 begin creating unique and interesting projects! <br/><br/>
