@@ -1,8 +1,8 @@
 Hello, I’m Forrest!
 
-I'm interested in learning to create my own projects and mapping my thought processes to be more programmer-oriented and fluid. <br/><br/>
-As of right now, I'm learning JavaScript, but have also completed a few courses in HTML5 and CSS3. I'm mainly focusing on becoming proficient in Javascript until I can comfortably
-begin creating unique and interesting projects! <br/><br/>
+I'm a web developer with completed courses (including a Udemy JavaScript course) in HTML5, CSS3, and JavaScript. I am always building on my knowledge and eager to learn more. <br/><br/>
+I am currently working on projects as well. I just finished a Game of Thrones character quiz, and I am in the process of developing a full, 898 character Pokedex from the Pokemon game series. That is my biggest project so far, destructuring json data from an API and building a web app with said data. <br/><br/>
+I am always thinking of new projects and adding to my portfolio! I have some old projects on here too that are minor, but might be fun to look at.
 <br/>
 If you'd like to contact me, use my email --> forrestogden@yahoo.com
 
