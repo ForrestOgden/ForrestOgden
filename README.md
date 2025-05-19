@@ -1,14 +1,13 @@
-Hello, I’m Forrest!
+Hello, I’m Forrest Ogden 👋
+I’m an aspiring IT Support Specialist and SOC Analyst with hands-on experience in troubleshooting, network configuration, and security analysis. Currently, I’m working through the CompTIA Security+ certification to build on my Network+ knowledge and deepen my understanding of cybersecurity fundamentals.
 
-I'm an aspiring cybersecurity analyst with experience (including a professional Udemy JavaScript course) in HTML5, CSS3, and JavaScript. I am always building on my knowledge and eager to learn more. <br/>
+🔹 Technical Skills: Active Directory, VLANs, DNS, DHCP, Wireshark, osTicket, ServiceNow, Windows CLI, PowerShell
+🔹 Projects: Home lab setups with Active Directory, SOC Analyst labs with Let's Defend, network segmentation and troubleshooting in Cisco Packet Tracer and GNS3
+🔹 Portfolio: fogdenportfolio.netlify.app
 
-I am currently learning via the Lets Defend SOC Analyst course with plans to get my NET+ and SEC+ through compTIA. I am hoping to land a SOC job over the next year or two. In the meantime, I am building fun apps, learning networking and security vulnerability management, and spending time with my wife and children.
+I’m committed to expanding my technical expertise, documenting my learning journey, and building real-world projects that demonstrate my problem-solving abilities and passion for IT security.
 
-After my certifications, I plan on furthering my education by staying up to date on security issues, and expanding my skill sets to show applicants I am eager to learn and willing to grow and adapt to whatever the role may need!
-
-I like to build fun and unique web applications for my personal use, such as my workout tracker which charts my lifts, exercises and body weight, or my dream logging app "Dreamtime," which allows users to log their dreams along with mood states to chart their moods and dreams!
-<br/>
-If you'd like to contact me, use my email --> forrestogden@yahoo.com
+📫 Want to connect? Reach me at forrest.ogden@outlook.com
 
 <!---
 ForrestOgden/ForrestOgden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
